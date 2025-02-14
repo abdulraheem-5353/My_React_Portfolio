@@ -1,5 +1,6 @@
 {
   "homepage": "https://abdulraheem-5353.github.io/My_React_Portfolio",
+  "base": "/My_React_Portfolio/",
   "name": "react-portfolio",
   "private": true,
   "version": "0.0.0",
